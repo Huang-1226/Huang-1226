@@ -28,7 +28,7 @@ A TypeScript/React PWA port of the Java app. It is offline-first, stores data in
 
 [Live demo](https://huang-1226.github.io/fitness-app/) · [Source code](https://github.com/Huang-1226/fitness-app)
 
-## For admissions readers
+## About these projects
 
 The two research projects include written reports; the bubble-compliance and boarding projects also have Zenodo DOIs. The fitness projects show the software side: a Java CLI system and its React PWA port.
 
