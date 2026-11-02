@@ -8,13 +8,13 @@ High school researcher and developer interested in mechanical engineering, soft 
 
 I designed and built an open-hardware syringe hydraulic test stand with 3D-printed fixtures, then measured how 1–5 mL trapped air bubbles tune stiffness by **3.1×** and response time from **0.11 to 0.41 s**. The repository contains the English technical report, raw data, analysis code, and STL/SCAD files.
 
-[Report (PDF)](https://github.com/Huang-1226/syringe-bubble-compliance/blob/main/report/Bubble_Compliance_Report_EN.pdf) · [Code & data](https://github.com/Huang-1226/syringe-bubble-compliance) · [DOI](https://doi.org/10.5281/zenodo.23719036)
+[Report (PDF)](https://github.com/Huang-1226/syringe-bubble-compliance/blob/main/report/Bubble_Compliance_Report_EN.pdf) · [LaTeX edition](https://github.com/Huang-1226/syringe-bubble-compliance/blob/main/report/latex/Bubble_Compliance_Report_LaTeX.pdf) · [Code & data](https://github.com/Huang-1226/syringe-bubble-compliance) · [DOI](https://doi.org/10.5281/zenodo.23719035)
 
 ### Boarding order simulation
 
 I built a tick-by-tick simulation and an exact longest-path (max-plus) model for four aircraft boarding strategies. The model explains why back-to-front boarding is slow and why a strided-descending order is faster. The project includes an interactive browser demo and a full report.
 
-[Live demo](https://huang-1226.github.io/boarding-order-simulation/) · [Code & report](https://github.com/Huang-1226/boarding-order-simulation) · [DOI](https://doi.org/10.5281/zenodo.23186759)
+[Live demo](https://huang-1226.github.io/boarding-order-simulation/) · [Report (EN)](https://github.com/Huang-1226/boarding-order-simulation/blob/main/docs/Research_Report_Boarding_Optimization.pdf) · [LaTeX edition (EN)](https://github.com/Huang-1226/boarding-order-simulation/blob/main/docs/latex/Boarding_Report_LaTeX.pdf) / [中文](https://github.com/Huang-1226/boarding-order-simulation/blob/main/docs/latex/Boarding_Report_ZH_LaTeX.pdf) · [Code](https://github.com/Huang-1226/boarding-order-simulation) · [DOI](https://doi.org/10.5281/zenodo.23186759)
 
 ### Fitness Management System (Java)
 
